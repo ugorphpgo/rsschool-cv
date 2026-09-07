@@ -55,18 +55,19 @@ function twiceAsOld(dadYearsOld, sonYearsOld) {
 let x = twiceAsOld(55, 30);
 console.log(x);
 ```
-# Опыт работы (можно указать учебные проекты с использованными навыками и ссылками на исходный код)
+# Experience
 * **Softnetix**
 *Support Operations Specialist 
 Softnetix · Full-time
+
 * **Yandex**
 *Technical Support Specialist
 Yandex · Full-time
 
-*Project - tg chat which sends top futbol matches for next days
+* **match-report-bot** - tg chat which sends top futbol matches for next days
 https://github.com/ugorphpgo/match-report-bot
 
-# Образование (включая пройденные курсы и обучение)
+# Educatiuon
 
 * **Bachelor's degree, Francisk Skorina Gomel State University**
     * Theoretical and Mathematical Physics
@@ -76,7 +77,8 @@ https://github.com/ugorphpgo/match-report-bot
     * [Course](https://stepik.org/cert/2930016](https://learn.javascript.ru/))
 
 # English
-* English B2 - []()
+* English B2 - <img width="998" height="715" alt="Снимок экрана 2026-09-07 195430" src="https://github.com/user-attachments/assets/f305b5f2-c557-4c8c-83c8-1a25bf8982d8" />
 * Belarussian - native
 * Russian - native
-I use english everyday with my work tasks, but continue to learn it on my job courses to became c2 .
+
+I use English daily in my work, but I continue to study it through advanced training courses to reach the C2 level.
