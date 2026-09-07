@@ -2,6 +2,7 @@
 ![Photo](https://media.licdn.com/dms/image/v2/D4E03AQH0nxUE0MycJg/profile-displayphoto-scale_100_100/B4EZm60IjPKkAg-/0/1759775853377?e=1790208000&v=beta&t=NN5ClXv3yoMIfJSFcNnQVmI15giqUikPhujd2VbdmMo)
 # Contacts
 * **Location:**  Minks, Belarus
+* **Discord:** snilez
 * **E-mail:** [soisnilez@gmail.com](soisnilez@gmail.com)
 * **LinkedIn:** [Ihar Shchatsinin](https://www.linkedin.com/in/ihar-shchatsinin-66692933a)
 * **GitHub:** [ugorphpgo](https://github.com/ugorphpgo)
