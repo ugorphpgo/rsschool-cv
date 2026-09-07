@@ -12,10 +12,10 @@
 ## Short introduction
 
 My goal is became a full-stack engineer and to  understand fundamentals of programming on the high level, stop watching in the code and became a one who create projects solo.
-I`m experienced support operations specialist and qa-specialist for a 2 years now and have experience as a physics teacher, my strong sides are : high adaptivity and learning capacity, finding answers and best ways to solve problems, high technical knowledge.
+I'm experienced support operations specialist and qa-specialist for a 2 years now and have experience as a physics teacher, my strong sides are : high adaptivity and learning capacity, finding answers and best ways to solve problems, high technical knowledge.
 Also skill to teach people the best way to achieve their goals.
 
-## Skills  (языки программирования, фреймворки, методологии, системы контроля версий и инструменты разработки, которыми вы владеете)
+## Skills
 
 * Golang
 * HTML
@@ -59,7 +59,6 @@ console.log(x);
 ```
 ## Experience
 * **Softnetix**
-* <img width="100" height="100" alt="1759775853377" src="https://github.com/user-attachments/assets/51c78b67-32de-414d-b5bf-5cc4be76d505" />
 Support Operations Specialist 
 Softnetix · Full-time
 
@@ -72,11 +71,11 @@ https://github.com/ugorphpgo/match-report-bot
 
 ## Education
 
-* **Bachelor's degree, Francisk Skorina Gomel State University**
+**Bachelor's degree, Francisk Skorina Gomel State University**
     * Theoretical and Mathematical Physics
-* **PRO Go. Golang fundamentals**
+**PRO Go. Golang fundamentals**
     * [Certificate](https://stepik.org/cert/2930016)
-* **Learnjavascript. JS fundamentals**
+**Learnjavascript. JS fundamentals**
     * [Course](https://learn.javascript.ru)
 
 ## English
