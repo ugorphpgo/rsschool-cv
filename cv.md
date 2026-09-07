@@ -1,5 +1,5 @@
 # Ihar Shchatsinin
-![Photo]<img width="100" height="100" alt="1759775853377" src="https://github.com/user-attachments/assets/92fc7ea9-a1cf-4cb3-9481-071abad7db5e" />
+<img width="100" height="100" alt="photo" src="https://github.com/user-attachments/assets/92fc7ea9-a1cf-4cb3-9481-071abad7db5e" />
 
 ## Contacts
 * **Location:**  Minsk, Belarus
