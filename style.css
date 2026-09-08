@@ -3,3 +3,21 @@
     margin: 0;
     box-sizing: border-box;
 }
+
+html{
+    scroll-behavior: smooth;
+}
+
+.container{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.rslogo{
+    aspect-ratio: 300/111;
+    max-width: 300px;
+}
+
+.c2{
+    max-width: 500px;
+}
