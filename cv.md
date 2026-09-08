@@ -13,9 +13,9 @@
 
 ## Short introduction
 
-My goal is became a full-stack engineer and to understand fundamentals of programming on the high level, stop watching in the code and became a one who create projects solo.
-I'm experienced support operations specialist and qa-specialist for a 2 years now and have experience as a physics teacher, my strong sides are : high adaptivity and learning capacity, finding answers and best ways to solve problems, high technical knowledge.
-Also skill to teach people the best way to achieve their goals.
+My goal is to become a full-stack engineer and to understand the fundamentals of programming at a high level, stop reading other people's code and start writing my own.
+I have been a support operations specialist and QA specialist for two years now and have experience as a physics teacher. My strengths are: adaptability, fast learning, problem-solving, and strong technical knowledge.
+I can also teach people the best way to achieve their goals.
 
 ## Skills
 
@@ -23,7 +23,7 @@ Also skill to teach people the best way to achieve their goals.
 - HTML
 - CSS
 - JavaScript (Fundamentals, vanilaJS, Node.js basics)
-- Version control: Git, Github for remote control
+- Version control: Git, Github for remote repositories
 - C basic knowledge
 - Windows OS, Linux(Ubuntu)
 - Figma
@@ -68,18 +68,18 @@ console.log(x);
   Softnetix · Full-time
 
 - **Yandex**
-- Technical Support Specialist
+  Technical Support Specialist
   Yandex · Full-time
 
-- **match-report-bot** - tg chat which sends top football matches for next days
+- **match-report-bot** - a Telegram bot that posts top football matches for next days
   https://github.com/ugorphpgo/match-report-bot
 
 ## Education
 
 **Bachelor's degree, Francisk Skorina Gomel State University**
-_ Theoretical and Mathematical Physics
+*Theoretical and Mathematical Physics
 **PRO Go. Golang fundamentals**
-_ [Certificate](https://stepik.org/cert/2930016)
+*[Certificate](https://stepik.org/cert/2930016)
 **Learnjavascript. JS fundamentals** \* [Course](https://learn.javascript.ru)
 
 ## English
