@@ -77,9 +77,9 @@ console.log(x);
 ## Education
 
 **Bachelor's degree, Francisk Skorina Gomel State University**
-*Theoretical and Mathematical Physics
+* Theoretical and Mathematical Physics
 **PRO Go. Golang fundamentals**
-*[Certificate](https://stepik.org/cert/2930016)
+* [Certificate](https://stepik.org/cert/2930016)
 **Learnjavascript. JS fundamentals** \* [Course](https://learn.javascript.ru)
 
 ## English
