@@ -8,11 +8,9 @@
   </head>
   <body>
     <header>
-      <div class="container">
-      <h1>Ihar Shchatsinin</h1>
-      <img src="assets/myself.jpg" alt="Ihar Shchatsinin photo" class="profile-photo">
-      <nav>
-        <ul>
+      <div class="container container__flex">
+        <nav>
+        <ul class="nav-links">
           <li><a href="#Contacts">Contacts</a></li>
           <li><a href="#Introduction">Introduction</a></li>
           <li><a href="#Skills">Skills</a></li>
@@ -25,45 +23,31 @@
       </div>
     </header>
     <main>
-      <div class="container">
-    <section class="contacts" id="Contacts">
+      <div class="avatar">
+        <h1>Ihar Shchatsinin</h1>
+        <img src="assets/myself.jpg" alt="Ihar Shchatsinin photo" class="profile-photo">
+      </div>
+    <div class="container">
+      <section class="contacts" id="Contacts">
       <h2>Contacts</h2>
       <ul>
       <li>Location: Minsk, Belarus</li>
       <li>Discord: snilez</li>
       <li>E-mail: <a href="mailto:soisnilez@gmail.com">soisnilez@gmail.com</a></li>
       <li>LinkedIn: <a href="https://www.linkedin.com/in/ihar-shchatsinin-66692933a">Ihar Shchatsinin</a></li>
-      <li><a href="https://github.com/ugorphpgo">GitHub:ugorphpgo</a></li>
-      <li><a href="https://www.codewars.com/users/ugorphpgo">CodeWars: ugorphpgo </a></li>
+      <li>GitHub:<a href="https://github.com/ugorphpgo"> ugorphpgo</a></li>
+      <li>CodeWars:<a href="https://www.codewars.com/users/ugorphpgo"> ugorphpgo </a></li>
     </ul>
     </section>
     <section class="introduction" id="Introduction">
       <h2>Short introduction</h2>
-      <p>My goal is to become a full-stack engineer and to understand the fundamentals of programming at a high level, stop reading other people's code and start writing my own.
-I have been a support operations specialist and QA specialist for two years now and have experience as a physics teacher. My strengths are: adaptability, fast learning, problem-solving, and strong technical knowledge.
-I can also teach people the best way to achieve their goals.</p>
-    </section>
-    <section class="skills" id="Skills">
-      <h2>Skills</h2>
-      <ul>
-        <li>HTML5</li>
-        <li>CSS3</li>
-        <li>JavaScript</li>
-        <li>Golang</li>
-        <li>JavaScript (Fundamentals, Node.js basics)</li>
-        <li>C basic knowledge</li>
-        <li>Windows OS, Linux(Ubuntu)</li>
-        <li>Git</li>
-        <li>GitHub</li>
-        <li>IDE: WebStorm, VSCode</li>
-        <li>Claude code</li>
-        <li>Chrome DevTools</li>
-      </ul>
+      <p>My goal is to become a full-stack engineer and to understand the fundamentals of programming at a high level, stop reading other people's code and start writing my own.</p>
+      <p>I have been a support operations specialist and QA specialist for two years now and have experience as a physics teacher. My strengths are: adaptability, fast learning, problem-solving, and strong technical knowledge.</p>
+<p>I can also teach people the best way to achieve their goals.</p>
     </section>
     <section class="code-examples" id="code-examples">
       <h2>Code examples</h2>
-      <pre>
-        <code>function twiceAsOld(dadYearsOld, sonYearsOld) {
+      <pre><code>function twiceAsOld(dadYearsOld, sonYearsOld) {
   if (dadYearsOld &lt; sonYearsOld * 2) {
     let dadYearsOldF = dadYearsOld;
     let sonYearsOldF = sonYearsOld;
@@ -89,6 +73,23 @@ I can also teach people the best way to achieve their goals.</p>
 let x = twiceAsOld(55, 30);
 console.log(x);</code>
 </pre>
+    </section>
+    <section class="skills" id="Skills">
+      <h2>Skills</h2>
+      <ul>
+        <li>HTML5</li>
+        <li>CSS3</li>
+        <li>JavaScript</li>
+        <li>Golang</li>
+        <li>JavaScript (Fundamentals, Node.js basics)</li>
+        <li>C basic knowledge</li>
+        <li>Windows OS, Linux(Ubuntu)</li>
+        <li>Git</li>
+        <li>GitHub</li>
+        <li>IDE: WebStorm, VSCode</li>
+        <li>Claude code</li>
+        <li>Chrome DevTools</li>
+      </ul>
     </section>
     <section class="experience" id="Experience">
       <h2>Experience</h2>
@@ -118,7 +119,7 @@ console.log(x);</code>
       </div>
   </main>
     <footer>
-      <div class="container">
+      <div class="container container__flex">
       <a href="https://github.com/ugorphpgo">github.com/ugorphpgo</a>
       <p>&copy; 2026 Ihar Shchatsinin</p>
       <a href="https://rs.school/courses/javascript"><img class="rslogo" src="assets/rs-school-logo.svg" alt="RS School logo"></a>
