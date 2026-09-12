@@ -7,11 +7,12 @@
 :root{
     --gap:0.75rem;
     --primary-color: #790909;
+    --primary-color-transparent: #79090958;
 }
 
 @font-face{
-    font-family: 'Poppins';
-    src: url('../fonts/Poppins-Regular.ttf') format('truetype');
+    font-family: 'Montserrat';
+    src: url('./assets/fonts/Montserrat.woff2') format('woff2');
 }
 
 html{
@@ -19,9 +20,23 @@ html{
 }
 
 body{
-    font-family: "Segoe UI", sans-serif;
+    font-family: "Montserrat", sans-serif;
     font-size: 16px;
     line-height: 1.6;
+}
+section{
+    display: flex;
+    flex-direction: column;
+    margin: calc(var(--gap));
+    border: 1px solid var(--primary-color-transparent);
+    border-radius: 5px;
+    padding: var(--gap);
+    transition: all 0.4s ease-in-out;
+}
+
+
+section:hover{
+    box-shadow: 0 0 10px var(--primary-color-transparent);
 }
 
 h2{
@@ -36,26 +51,37 @@ ul{
     list-style: none;
     margin-bottom: var(--gap);
 }
+nav{
+    width: 100%;
+}
+
 .nav-links{
     display: flex;
         justify-content: space-between;
         gap: var(--gap);
+        flex-wrap: wrap;
 }
 li{
-    margin-bottom: calc(var(--gap))/2;
+    margin-bottom: calc(var(--gap)/2);
 }
-
 a{
     text-decoration: none;
     color: var(--primary-color);
+    transition: all 0.4s ease-in-out;
+}
+
+a:hover{
+    text-decoration: none;
+    color: rgb(62, 20, 141);
+    background-color: var(--primary-color);
+    border-radius: 5px;
 }
 
 .container{
     display: grid;
-    grid-template-columns: 1fr  1fr;
-    grid-column: 1/-1;
+    grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
     align-items: start;
-    max-width: 1200px;
+    max-width: 1400px;
     margin: 0 auto;
     padding-inline: 1.25rem;
 }
@@ -67,18 +93,106 @@ a{
     padding-inline: 1.25rem;
 }
 .avatar{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    gap: var(--gap);
+        display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            gap: var(--gap);
+            justify-self: center;
+            max-width: fit-content;
 }
 
 .rslogo{
     aspect-ratio: 300/111;
-    max-width: 300px;
+    width: 100px;
+    transition: all 0.4s ease-in-out;
+}
+
+.rslogo:hover{
+    transform: scale(1.1);
 }
 
 .c2{
-    max-width: 500px;
+    max-width: 100%;
+}
+
+.skills-list{
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--gap);
+}
+ pre{
+            background-color: rgba(129, 66, 66, 0.067);
+            max-width: 100%;
+            overflow-x: auto;
+            border-radius: 8px;
+            border: 1px solid var(--primary-color-transparent);
+            padding: 20px;
+}
+
+.contacts a{
+    transition: all 0.4s ease-in-out;
+}
+.contacts a:hover{
+    background-color: transparent;
+}
+.contacts a img, .skills-list img{
+    width: 50px;
+    height: 50px;
+    transition: all 0.3s ease-in-out;
+}
+
+.contacts a img:hover, .skills-list img:hover{
+transform: scale(1.1);
+}
+
+ h2{
+    text-align: center;
+}
+
+.contacts ul{
+    display: flex;
+    flex-direction: column;
+    gap: var(--gap);
+    align-items: stretch;
+    justify-content: center;
+    margin-bottom: 0;
+    width: fit-content;
+    margin-inline: auto;
+}
+li p{
+    margin-bottom: 0;
+}
+
+.contacts li a{
+    display: flex;
+     align-items: center;
+     gap: var(--gap);
+}
+
+
+footer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: var(--gap);
+    background-color: var(--primary-color);
+    padding-block: 1.25rem;
+}
+footer .container__flex{
+    gap: var(--gap);
+    width: 100%;
+}
+.gitlink,.footername{
+    color: white;
+}
+section.contacts{
+    display: grid;
+    grid-column: 1/-1;
+    justify-self: center;
+    margin-bottom: var(--gap);
+}
+section.skills{
+   align-items: center;
 }
 
