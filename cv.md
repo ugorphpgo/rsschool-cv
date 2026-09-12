@@ -22,7 +22,7 @@ I can also teach people the best way to achieve their goals.
 - Golang
 - HTML
 - CSS
-- JavaScript (Fundamentals, vanilaJS, Node.js basics)
+- JavaScript (Fundamentals, Node.js basics)
 - Version control: Git, Github for remote repositories
 - C basic knowledge
 - Windows OS, Linux(Ubuntu)
@@ -33,33 +33,7 @@ I can also teach people the best way to achieve their goals.
 
 ## Code examples
 
-```js
-function twiceAsOld(dadYearsOld, sonYearsOld) {
-  if (dadYearsOld < sonYearsOld * 2) {
-    let dadYearsOldF = dadYearsOld;
-    let sonYearsOldF = sonYearsOld;
-    while (dadYearsOldF !== sonYearsOldF * 2) {
-      dadYearsOldF--;
-      sonYearsOldF--;
-    }
-    let r1 = dadYearsOld - dadYearsOldF;
-    return r1;
-  }
-  if (dadYearsOld > sonYearsOld * 2) {
-    let dadYearsOldP = dadYearsOld;
-    let sonYearsOldP = sonYearsOld;
-    while (dadYearsOldP !== sonYearsOldP * 2) {
-      dadYearsOldP++;
-      sonYearsOldP++;
-    }
-    let r2 = dadYearsOldP - dadYearsOld;
-    return r2;
-  }
-  return 0;
-}
-let x = twiceAsOld(55, 30);
-console.log(x);
-```
+
 
 ## Experience
 
@@ -76,11 +50,12 @@ console.log(x);
 
 ## Education
 
-**Bachelor's degree, Francisk Skorina Gomel State University**
-* Theoretical and Mathematical Physics
-**PRO Go. Golang fundamentals**
-* [Certificate](https://stepik.org/cert/2930016)
-**Learnjavascript. JS fundamentals** \* [Course](https://learn.javascript.ru)
+- **Bachelor's degree, Francisk Skorina Gomel State University**
+  - Theoretical and Mathematical Physics
+- **PRO Go. Golang fundamentals**
+  - [Certificate](https://stepik.org/cert/2930016)
+- **Learnjavascript. JS fundamentals**
+  - [Course](https://learn.javascript.ru)
 
 ## English
 
